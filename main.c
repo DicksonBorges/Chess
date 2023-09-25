@@ -1627,7 +1627,7 @@ void main(){
         break;
        
         case 2:
-        printf("\n * Enter the correct position of the piece, after entering the position a board will appear, \n  44 means that is the possible move for that piece and K means that piece can kill an enemy's piece at that position\n");
+        printf("\n * Enter the correct position of the piece row:column, after entering the position a board will appear, \n  44 means those are the possible moves for that piece and K means that piece can kill an enemy's piece at that position\n");
         break;
        
         case 3:
@@ -3414,5 +3414,3 @@ if(fake_pieces[x-1][y]!=66)
         bcheckmate();
         loop();
 }
-
-
