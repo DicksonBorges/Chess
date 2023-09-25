@@ -1615,7 +1615,7 @@ void main(){
     int ch;
     long double i;
     
-    printf("\n\t\t\t\t\t\t\t\tChess Game\n\t\t\t\t\t\t\tDeveloped By: Dickson & Vaibhav\n");
+    printf("\n\t\t\t\t\t\t\t\tChess Game\n\t\t\t\t\t\t\tDeveloped By: Dickson\n");
     //sleep(2);
 
     printf("\n1. Start \n2. Rules\n3. Exit\n");
